@@ -25,7 +25,38 @@ out something new while mitigating many important issues.
 
 The changes can be seen easily at the diagrams below:
 
-Normal US-QWERTY:
+Legend:
+
+    A = Alt
+    B = Backspace
+    C = Control
+    R = Return
+    RC = Menu ("Right Click")
+    S = Shift
+    W = Super ("Windows" key)
+
+Normal US-QWERTY on 101-key ("US") keyboard:
+
+    Caps F1 ... F12
+
+     ` 1 2 3 4 5 6 7 8 9 0 - = BBBB
+    Tab q w e r t y u i o p [ ] \
+    Esc  a s d f g h j k l ; ' RRRR
+    SSS < z x c v b n m , . / SSSSS
+    CCC W AAA __________ AA RC CCCC
+
+
+This layout on 101-key ("US") keyboard:
+
+    Caps F1 ... F12
+
+     ` 1 2 3 4 5 - = 6 7 8 9 0 BBBB
+    Tab q w e r t [ ] y u i o p ;
+    Esc  a s d f g \ ' h j k l RRRR
+    SSS B z x c v , . b n m / SSSSS
+    CCC W AAA __________ AA RC CCCC
+
+Normal US-QWERTY on 102-key ("International") keyboard:
 
     Caps F1 ... F12
 
@@ -36,7 +67,7 @@ Normal US-QWERTY:
     CCC W AAA __________ AA RC CCCC
 
 
-This layout:
+This layout on 102-key ("International") keyboard:
 
     Caps F1 ... F12
 
@@ -44,7 +75,7 @@ This layout:
     Tab q w e r t [ ] y u i o p RRR
     Esc  a s d f g \ ' h j k l ; RR
     SSS B z x c v , . b n m / SSSSS
-    CCC W Alt __________ AA RC CCCC
+    CCC W AAA __________ AA RC CCCC
 
 The symbol keys, which do not get typed very often, have been placed in the
 middle. This is analogous to them being out of the reach of the right hand in
