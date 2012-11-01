@@ -101,7 +101,7 @@ of them was fixing the problem at its source, which is an inadequate layout.
 The key between the left Shift and z is the 105th key. It exists on many
 European keyboards and some people love it, while others hate it with
 passion. The author has been a member of both groups. It is mapped as a
-second Backspace. 
+second Backspace.
 
 Caps Lock is placed where Esc was and Esc is placed where Caps Lock was. This
 is hardcoded for now, but might be configurable in the future.
