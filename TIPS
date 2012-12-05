@@ -9,3 +9,5 @@ in a terminal under X, as a regular user: xset r rate 250 30
 to change the default: change /etc/kbd/config, set the variables KEYBOARD_RATE="30" and KEYBOARD_DELAY="250".
 
 to set numlock in X on multiple keyboards, use numlockx.
+
+to remove the xkb cache, sudo rm -rf /var/lib/xkb/server-*.xkm
