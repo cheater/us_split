@@ -34,5 +34,14 @@ http://hektor.umcs.lublin.pl/~mikosmul/computing/articles/custom-keyboard-layout
 http://www.freerdp.com/wiki/doku.php?id=keyboard#xkb_symbolic_key_codes
 # keyboard [FreeRDP]
 
+http://code.metager.de/source/xref/FreeRDP/scripts/xkb.pl
+# FreeRDP xkb layout conversion script
+
 http://www.x.org/releases/X11R7.5/doc/input/XKB-Enhancing.html
 # How to further enhance XKB configuration
+
+http://www.charvolant.org/~doug/xkb/html/node5.html
+
+http://wayback.archive.org/web/*/http://www.tsu.ru/~pascal/en/xkb
+
+http://web.archive.org/*/http://www.x-docs.org/XKB/XKBproto.pdf
